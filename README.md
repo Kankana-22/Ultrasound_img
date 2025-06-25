@@ -117,7 +117,7 @@ mean_background = mean(background_pixels);
 std_background = std(background_pixels);  
 <mark>% Compute CNR</mark>  
 CNR = (mean_signal - mean_background) / std_background;  
-<mark>% Display result<mark>  
+<mark>% Display result</mark>  
 fprintf('Contrast-to-Noise Ratio (CNR): %.2f\n', CNR);
 
 *Steps:*
