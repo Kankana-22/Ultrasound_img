@@ -1,5 +1,5 @@
-<<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br>
+<<br><br><br><br><br><br><br>
+
 
 <div align="center">
   <h1><strong>Internship Report</strong></h1>
