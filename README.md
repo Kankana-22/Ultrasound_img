@@ -8,9 +8,12 @@ To set up the system environment for ultrasound data acquisition and processing,
 * Driver Installer
   - File Name: hfrUsc.exe
   - Purpose: Installs the necessary USB driver to enable communication between the host PC and the ultrasound probe.
+* Installation Video
+  - Description: A video tutorial providing a detailed walkthrough of the installation process to ensure proper setup.  
+    https://drive.google.com/file/d/1UXWY6-xI2PMXhA6JNui44EJvC6uhnuaP/view?usp=drive_link
 
  * Step-by-Step Installation Process
-   - Download the compressed file k32v-elasto-R5.zip.
+   - Download the file k32v-elasto-R5.zip.
    - Right-click on the file and select “Extract All”.
    - Recommended extraction path
    - Run the driver installer: hfrUsc.exe.
