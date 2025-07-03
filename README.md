@@ -1,21 +1,27 @@
-<div align="center">
+<div align="center" style="margin-top: 120px;">
+
   <h1><strong>Internship Report</strong></h1>
-</div>
 
-<div align="center">
+  <br><br>
+
   <h2><em>Ultrasound Imaging: B-mode Implementation, Elastography Visualization, and Image Quality Evaluation</em></h2>
+
+  <br><br><br><br>
+
+  <p><strong>Submitted by:</strong><br>
+  <strong>Kankana Das</strong><br>
+  Department of Electronics and Communication Engineering<br>
+  NIT Silchar<br>
+  03 July, 2025</p>
+
+  <br><br>
+
+  <p><strong>Under the guidance of:</strong><br>
+  <strong>Dr. Manish Bhatt</strong><br>
+  Department of Electronics & Electrical Engineering<br>
+  IIT Guwahati</p>
+
 </div>
-
-<p align="center"><strong>Submitted by:</strong><br>
-<strong>Kankana Das</strong><br>
-Department of Electronics and Communication Engineering<br>
-NIT Silchar<br>
-03 July, 2025</p>
-
-<p align="center"><strong>Under the guidance of:</strong><br>
-<strong>Dr. Manish Bhatt</strong><br>
-Department of Electronics & Electrical Engineering<br>
-IIT Guwahati</p>
 
 <div style="page-break-after: always;"></div>
 
