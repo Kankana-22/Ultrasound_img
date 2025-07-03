@@ -1,6 +1,4 @@
-<br><br><br><br>
-
-
+<br><br><br><br><br><br><br>
 <div align="center">
   <h1><strong>Internship Report</strong></h1>
 
@@ -9,6 +7,8 @@
   <h2><em>Ultrasound Imaging: B-mode Implementation, Elastography Visualization, and Image Quality Evaluation</em></h2>
 
   <br><br><br><br>
+
+  <div align="center">
 
   <p><strong>Submitted by:</strong><br>
   <strong>Kankana Das</strong><br>
@@ -22,6 +22,9 @@
   <strong>Dr. Manish Bhatt</strong><br>
   Department of Electronics & Electrical Engineering<br>
   IIT Guwahati</p>
+
+</div>
+
 </div>
 
 <div style="page-break-after: always;"></div>
