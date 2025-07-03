@@ -1,6 +1,25 @@
 # Ultrasound_img
 ### **1.  Installation of Ultrasound Machine**
 
+To set up the system environment for ultrasound data acquisition and processing, the following files and resources were essential:
+* Main Software
+  - File Name: k32v-elasto-R5.zip
+  - Purpose: Contains the core application for ultrasound signal acquisition and processing, including interface scripts and configuration files.
+* Driver Installer
+  - File Name: hfrUsc.exe
+  - Purpose: Installs the necessary USB driver to enable communication between the host PC and the ultrasound probe.
+
+ * Step-by-Step Installation Process
+   - Download the compressed file k32v-elasto-R5.zip.
+   - Right-click on the file and select “Extract All”.
+   - Recommended extraction path
+   - Run the driver installer: hfrUsc.exe.
+   - If prompted by User Account Control (UAC), grant administrator permissions.
+   - Follow the on-screen instructions to complete the installation of the USB driver.
+   - Once the installation is complete, restart the system to apply changes.
+   - After the system has restarted, connect the ultrasound probe to a USB port.
+   - Allow Windows to automatically recognize the device.
+
 
 ### **2.  Acquiring the B-mode Image**
 
