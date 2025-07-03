@@ -1,17 +1,23 @@
-# Internship Report
+<div align="center">
+  <h1><strong>Internship Report</strong></h1>
+</div>
 
-### Title: *Ultrasound Imaging: B-mode Implementation, Elastography Visualization, and Image Quality Evaluation*
+<div align="center">
+  <h2><em>Ultrasound Imaging: B-mode Implementation, Elastography Visualization, and Image Quality Evaluation</em></h2>
+</div>
 
-**Submitted by:**  
-**Kankana Das**  
-Department of Electronics and Communication Engineering  
-NIT Silchar   
-03 July, 2025
+<p align="center"><strong>Submitted by:</strong><br>
+<strong>Kankana Das</strong><br>
+Department of Electronics and Communication Engineering<br>
+NIT Silchar<br>
+03 July, 2025</p>
 
-**Under the guidance of:**  
-**Dr. Manish Bhatt**  
-Department of Electronics & Electrical Engineering  
-IIT Guwahati
+<p align="center"><strong>Under the guidance of:</strong><br>
+<strong>Dr. Manish Bhatt</strong><br>
+Department of Electronics & Electrical Engineering<br>
+IIT Guwahati</p>
+
+<div style="page-break-after: always;"></div>
 
 ### **1.  Installation of Ultrasound Machine**
 
@@ -111,8 +117,8 @@ end
 filtered = imgaussfilt(original_gray, 2);  
 <mark>% Convert both to double</mark>  
 original_double = im2double(original_gray);  
-filtered_double = im2double(filtered); 
-<mark>% Calculate PSNR</mark>  
+filtered_double = im2double(filtered);  
+<mark>% Calculate PSNR</mark>    
 psnr_value = psnr(filtered_double, original_double);  
 <mark>% Display result</mark>  
 fprintf('PSNR between original and filtered image: %.2f dB\n', psnr_value);
