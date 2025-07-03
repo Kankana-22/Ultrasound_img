@@ -1,5 +1,7 @@
-<div align="center" style="margin-top: 120px;">
+<<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
+<div align="center">
   <h1><strong>Internship Report</strong></h1>
 
   <br><br>
@@ -20,10 +22,10 @@
   <strong>Dr. Manish Bhatt</strong><br>
   Department of Electronics & Electrical Engineering<br>
   IIT Guwahati</p>
-
 </div>
 
 <div style="page-break-after: always;"></div>
+
 
 ### **1.  Installation of Ultrasound Machine**
 
