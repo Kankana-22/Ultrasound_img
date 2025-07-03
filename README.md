@@ -1,4 +1,18 @@
-# Ultrasound_img
+# Internship Report
+
+### Title: *Ultrasound Imaging: B-mode Implementation, Elastography Visualization, and Image Quality Evaluation*
+
+**Submitted by:**  
+**Kankana Das**  
+Department of Electronics and Communication Engineering  
+NIT Silchar   
+03 July, 2025
+
+**Under the guidance of:**  
+**Dr. Manish Bhatt**  
+Department of Electronics & Electrical Engineering  
+IIT Guwahati
+
 ### **1.  Installation of Ultrasound Machine**
 
 To set up the system environment for ultrasound data acquisition and processing, the following files and resources were essential:
